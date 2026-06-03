@@ -1,5 +1,6 @@
 ::picker-iconurl
 .main-title{color: crimson;}
+
 body 
 {
     margin: 0;
@@ -9,6 +10,8 @@ body
 }
 
 button {
+    display: block;
+    margin: 10px auto;
     background: #fff765;
     border: none;
     padding: 12px 20px;
@@ -17,9 +20,11 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: 0.3s;
-}
-   .kkk{color: rgb(221, 255, 0);}
 
+}
+button 
+   .kkk{color: rgb(221, 255, 0);
+}
    h1 { 
       text-align: center;
     text-align: center;
